@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 91.7 98.2" style="enable-background:new 0 0 91.7 98.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:url(#SVGID_3_);}
+	.st3{fill:url(#SVGID_4_);}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="2.8335" y1="67.3755" x2="24.8549" y2="67.3755">
+	<stop  offset="0" style="stop-color:#FFAB82"/>
+	<stop  offset="1" style="stop-color:#F6548A"/>
+</linearGradient>
+<path class="st0" d="M23.1,44H4.6c-1,0-1.7,0.8-1.7,1.7V89c0,1,0.8,1.7,1.7,1.7h18.6c1,0,1.7-0.8,1.7-1.7V45.7
+	C24.9,44.8,24.1,44,23.1,44z M21.3,87.2H6V47.5h15.3L21.3,87.2L21.3,87.2z"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="2.8335" y1="67.3398" x2="24.9979" y2="67.3398">
+	<stop  offset="0.4252" style="stop-color:#FFAB82"/>
+	<stop  offset="1" style="stop-color:#F6548A"/>
+</linearGradient>
+<path class="st1" d="M22.8,91.2H5c-1.2,0-2.2-1-2.2-2.2V45.7c0-1.2,1-2.2,2.2-2.2h17.8c1.2,0,2.2,1,2.2,2.2V89
+	C25,90.2,24,91.2,22.8,91.2z"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="66.0021" y1="61.7987" x2="88.1665" y2="61.7987">
+	<stop  offset="0" style="stop-color:#FFAB82"/>
+	<stop  offset="0.6373" style="stop-color:#F6548A"/>
+</linearGradient>
+<path class="st2" d="M86,91.2H68.2c-1.2,0-2.2-1-2.2-2.2V34.6c0-1.2,1-2.2,2.2-2.2H86c1.2,0,2.2,1,2.2,2.2V89
+	C88.2,90.2,87.2,91.2,86,91.2z"/>
+<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="33.8637" y1="48.5" x2="56.0281" y2="48.5">
+	<stop  offset="0" style="stop-color:#FFAB82"/>
+	<stop  offset="0.3376" style="stop-color:#FFA782"/>
+	<stop  offset="1" style="stop-color:#F6548A"/>
+</linearGradient>
+<path class="st3" d="M53.9,91.2H36c-1.2,0-2.2-1-2.2-2.2V8c0-1.2,1-2.2,2.2-2.2h17.8c1.2,0,2.2,1,2.2,2.2v81
+	C56,90.2,55.1,91.2,53.9,91.2z"/>
+</svg>
